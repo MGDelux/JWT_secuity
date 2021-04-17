@@ -17,7 +17,7 @@ import javax.ws.rs.core.SecurityContext;
 import utils.EMF_Creator;
 
 /**
- * @author lam@cphbusiness.dk
+ * @author lam@cphbusiness.dk / Mathias
  */
 @Path("info")
 public class DemoResource {
